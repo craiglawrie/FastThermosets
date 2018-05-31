@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastThermosets", "FastThermosets\FastThermosets.csproj", "{CC0E9CEC-7105-4837-AEAA-5B9E669235CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastThermosets.Tests", "FastThermosets.Tests\FastThermosets.Tests.csproj", "{3DC1FDAB-70B9-40AF-A352-8C2358012BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0E9CEC-7105-4837-AEAA-5B9E669235CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0E9CEC-7105-4837-AEAA-5B9E669235CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0E9CEC-7105-4837-AEAA-5B9E669235CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0E9CEC-7105-4837-AEAA-5B9E669235CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC1FDAB-70B9-40AF-A352-8C2358012BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC1FDAB-70B9-40AF-A352-8C2358012BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC1FDAB-70B9-40AF-A352-8C2358012BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC1FDAB-70B9-40AF-A352-8C2358012BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C822FA6F-392B-4578-92CD-C5EADE8C2355}
+	EndGlobalSection
+EndGlobal
